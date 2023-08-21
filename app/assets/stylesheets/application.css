@@ -13,3 +13,7 @@
  *= require_tree .
  *= require_self
  */
+ .total-class {
+    border-color: blue;
+    border-left: 1px solid black; /* You need to specify the border style (solid, dashed, etc.) */
+}
